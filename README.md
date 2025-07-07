@@ -1,6 +1,6 @@
 <!-- WAIFU AESTHETIC -->
 <p align="center">
-  <img src="https://i.imgur.com/QXCpMFJ.jpeg" width="280px" />
+  <img src="https://i.imgur.com/QXCpMFJ.jpeg" width="600px" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 <h2 align="center">📦 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OniRai&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000&title_color=00bfff&icon_color=00bfff&text_color=5dade2" width="460px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OniRai&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000&title_color=00bfff&icon_color=00bfff&text_color=5dade2" width="760px" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=OniRai&theme=blueberry&hide_border=true&background=FFFFFF00&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="460px" />
